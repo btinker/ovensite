@@ -1,27 +1,1164 @@
 {
-"type": "FeatureCollection",
-"name": "MXT6",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Bone": 3, "Brick": 0.5, "Ceramic": 2, "Charcoal": 0, "Coal": 0, "Fiber": 0, "Glass": 0, "Kaolin_Clay": 0, "Metal": 3.5, "Mortar": 0, "Scale": 0, "Shell": 0, "Stone": 1.5, "Grand_Total": 10.5, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661826009133549, 32.372147217047861 ], [ -64.661834992286387, 32.372147217047861 ], [ -64.661834992286387, 32.372154804113357 ], [ -64.661826009133549, 32.372154804113357 ], [ -64.661826009133549, 32.372147217047861 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 3, "Brick": 0.5, "Ceramic": 2, "Charcoal": 0, "Coal": 0, "Fiber": 0, "Glass": 0, "Kaolin_Clay": 0, "Metal": 3.5, "Mortar": 0, "Scale": 0, "Shell": 0, "Stone": 1.5, "Grand_Total": 10.5, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.66181702598071, 32.372147217047861 ], [ -64.661826009133549, 32.372147217047861 ], [ -64.661826009133549, 32.372154804113357 ], [ -64.66181702598071, 32.372154804113357 ], [ -64.66181702598071, 32.372147217047861 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 23, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 4, "Kaolin_Clay": 1, "Metal": 1.0, "Mortar": null, "Scale": 1, "Shell": 1, "Stone": null, "Grand_Total": 31.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.66181702598071, 32.372139629981724 ], [ -64.661826009133549, 32.372139629981724 ], [ -64.661826009133549, 32.372147217047861 ], [ -64.66181702598071, 32.372147217047861 ], [ -64.66181702598071, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 21, "Brick": 1.0, "Ceramic": 3, "Charcoal": 3, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": 7.0, "Mortar": null, "Scale": null, "Shell": 1, "Stone": 5.0, "Grand_Total": 41.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661808042827857, 32.372147217047861 ], [ -64.66181702598071, 32.372147217047861 ], [ -64.66181702598071, 32.372154804113357 ], [ -64.661808042827857, 32.372154804113357 ], [ -64.661808042827857, 32.372147217047861 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 2, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": 6.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 8.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661808042827857, 32.372139629981724 ], [ -64.66181702598071, 32.372139629981724 ], [ -64.66181702598071, 32.372147217047861 ], [ -64.661808042827857, 32.372147217047861 ], [ -64.661808042827857, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 77, "Brick": null, "Ceramic": 3, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 0, "Kaolin_Clay": null, "Metal": null, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 80.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661799059675019, 32.372139629981724 ], [ -64.661808042827857, 32.372139629981724 ], [ -64.661808042827857, 32.372147217047861 ], [ -64.661799059675019, 32.372147217047861 ], [ -64.661799059675019, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 52, "Brick": 1.0, "Ceramic": 5, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 16, "Kaolin_Clay": null, "Metal": 2.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 76.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661799059675019, 32.372132042914949 ], [ -64.661808042827857, 32.372132042914949 ], [ -64.661808042827857, 32.372139629981724 ], [ -64.661799059675019, 32.372139629981724 ], [ -64.661799059675019, 32.372132042914949 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 4, "Brick": 1.0, "Ceramic": 1, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 2, "Kaolin_Clay": null, "Metal": 4.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 12.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661799059675019, 32.372124455847555 ], [ -64.661808042827857, 32.372124455847555 ], [ -64.661808042827857, 32.372132042914949 ], [ -64.661799059675019, 32.372132042914949 ], [ -64.661799059675019, 32.372124455847555 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 80, "Brick": 1.0, "Ceramic": 1, "Charcoal": 5, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": null, "Mortar": null, "Scale": null, "Shell": 2, "Stone": 1.0, "Grand_Total": 90.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.66179007652218, 32.372139629981724 ], [ -64.661799059675019, 32.372139629981724 ], [ -64.661799059675019, 32.372147217047861 ], [ -64.66179007652218, 32.372147217047861 ], [ -64.66179007652218, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 295, "Brick": null, "Ceramic": 7, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": 3.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": 6.0, "Grand_Total": 311.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661781093369342, 32.372139629981724 ], [ -64.66179007652218, 32.372139629981724 ], [ -64.66179007652218, 32.372147217047861 ], [ -64.661781093369342, 32.372147217047861 ], [ -64.661781093369342, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 22, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": 4, "Glass": null, "Kaolin_Clay": null, "Metal": 13.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 39.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661772110216489, 32.372162391178222 ], [ -64.661781093369342, 32.372162391178222 ], [ -64.661781093369342, 32.372169978242439 ], [ -64.661772110216489, 32.372169978242439 ], [ -64.661772110216489, 32.372162391178222 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 9, "Brick": null, "Ceramic": 5, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 3, "Kaolin_Clay": null, "Metal": 2.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 19.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661772110216489, 32.372154804113357 ], [ -64.661781093369342, 32.372154804113357 ], [ -64.661781093369342, 32.372162391178222 ], [ -64.661772110216489, 32.372162391178222 ], [ -64.661772110216489, 32.372154804113357 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": null, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 3, "Kaolin_Clay": null, "Metal": 17.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 20.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661772110216489, 32.372147217047861 ], [ -64.661781093369342, 32.372147217047861 ], [ -64.661781093369342, 32.372154804113357 ], [ -64.661772110216489, 32.372154804113357 ], [ -64.661772110216489, 32.372147217047861 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 5, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 14, "Kaolin_Clay": null, "Metal": 4.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 23.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661763127063651, 32.372162391178222 ], [ -64.661772110216489, 32.372162391178222 ], [ -64.661772110216489, 32.372169978242439 ], [ -64.661763127063651, 32.372169978242439 ], [ -64.661763127063651, 32.372162391178222 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 25, "Brick": null, "Ceramic": 1, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 4, "Kaolin_Clay": null, "Metal": 5.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 35.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661763127063651, 32.372147217047861 ], [ -64.661772110216489, 32.372147217047861 ], [ -64.661772110216489, 32.372154804113357 ], [ -64.661763127063651, 32.372154804113357 ], [ -64.661763127063651, 32.372147217047861 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 4, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": 1, "Kaolin_Clay": null, "Metal": null, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 5.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661763127063651, 32.372139629981724 ], [ -64.661772110216489, 32.372139629981724 ], [ -64.661772110216489, 32.372147217047861 ], [ -64.661763127063651, 32.372147217047861 ], [ -64.661763127063651, 32.372139629981724 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 155, "Brick": 3.0, "Ceramic": 1, "Charcoal": 18, "Coal": 19, "Fiber": null, "Glass": 1, "Kaolin_Clay": 1, "Metal": 5.0, "Mortar": 1, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 204.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661763127063651, 32.372132042914949 ], [ -64.661772110216489, 32.372132042914949 ], [ -64.661772110216489, 32.372139629981724 ], [ -64.661763127063651, 32.372139629981724 ], [ -64.661763127063651, 32.372132042914949 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 43, "Brick": null, "Ceramic": null, "Charcoal": 8, "Coal": 8, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": null, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 59.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661763127063651, 32.372124455847555 ], [ -64.661772110216489, 32.372124455847555 ], [ -64.661772110216489, 32.372132042914949 ], [ -64.661763127063651, 32.372132042914949 ], [ -64.661763127063651, 32.372124455847555 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": 15, "Brick": null, "Ceramic": 1, "Charcoal": 1, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": 2.0, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 19.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661754143910812, 32.372116868779493 ], [ -64.661763127063651, 32.372116868779493 ], [ -64.661763127063651, 32.372124455847555 ], [ -64.661754143910812, 32.372124455847555 ], [ -64.661754143910812, 32.372116868779493 ] ] ] ] } },
-{ "type": "Feature", "properties": { "Bone": null, "Brick": null, "Ceramic": null, "Charcoal": null, "Coal": null, "Fiber": null, "Glass": null, "Kaolin_Clay": null, "Metal": null, "Mortar": null, "Scale": null, "Shell": null, "Stone": null, "Grand_Total": 0.0, "grid": null, "Barnacle": null, "Composite": null, "Coral": null, "Kaolin_Pipe": null, "Limestone": null, "Scales": null, "MXT": "6" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.661745160757974, 32.372132042914949 ], [ -64.661754143910812, 32.372132042914949 ], [ -64.661754143910812, 32.372139629981724 ], [ -64.661745160757974, 32.372139629981724 ], [ -64.661745160757974, 32.372132042914949 ] ] ] ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 3,
+        "Brick": 0.5,
+        "Ceramic": 2,
+        "Charcoal": 0,
+        "Coal": 0,
+        "Fiber": 0,
+        "Glass": 0,
+        "Kaolin_Clay": 0,
+        "Metal": 3.5,
+        "Mortar": 0,
+        "Scale": 0,
+        "Shell": 0,
+        "Stone": 1.5,
+        "Grand_Total": 10.5,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66182600913355,
+                32.37214721704786
+              ],
+              [
+                -64.66182600913355,
+                32.37215480411336
+              ],
+              [
+                -64.66183499228639,
+                32.37215480411336
+              ],
+              [
+                -64.66183499228639,
+                32.37214721704786
+              ],
+              [
+                -64.66182600913355,
+                32.37214721704786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 3,
+        "Brick": 0.5,
+        "Ceramic": 2,
+        "Charcoal": 0,
+        "Coal": 0,
+        "Fiber": 0,
+        "Glass": 0,
+        "Kaolin_Clay": 0,
+        "Metal": 3.5,
+        "Mortar": 0,
+        "Scale": 0,
+        "Shell": 0,
+        "Stone": 1.5,
+        "Grand_Total": 10.5,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66181702598071,
+                32.37214721704786
+              ],
+              [
+                -64.66181702598071,
+                32.37215480411336
+              ],
+              [
+                -64.66182600913355,
+                32.37215480411336
+              ],
+              [
+                -64.66182600913355,
+                32.37214721704786
+              ],
+              [
+                -64.66181702598071,
+                32.37214721704786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 23,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 4,
+        "Kaolin_Clay": 1,
+        "Metal": 1,
+        "Mortar": null,
+        "Scale": 1,
+        "Shell": 1,
+        "Stone": null,
+        "Grand_Total": 31,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66181702598071,
+                32.372139629981724
+              ],
+              [
+                -64.66181702598071,
+                32.37214721704786
+              ],
+              [
+                -64.66182600913355,
+                32.37214721704786
+              ],
+              [
+                -64.66182600913355,
+                32.372139629981724
+              ],
+              [
+                -64.66181702598071,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 21,
+        "Brick": 1,
+        "Ceramic": 3,
+        "Charcoal": 3,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": 7,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": 1,
+        "Stone": 5,
+        "Grand_Total": 41,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66180804282786,
+                32.37214721704786
+              ],
+              [
+                -64.66180804282786,
+                32.37215480411336
+              ],
+              [
+                -64.66181702598071,
+                32.37215480411336
+              ],
+              [
+                -64.66181702598071,
+                32.37214721704786
+              ],
+              [
+                -64.66180804282786,
+                32.37214721704786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 2,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": 6,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 8,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66180804282786,
+                32.372139629981724
+              ],
+              [
+                -64.66180804282786,
+                32.37214721704786
+              ],
+              [
+                -64.66181702598071,
+                32.37214721704786
+              ],
+              [
+                -64.66181702598071,
+                32.372139629981724
+              ],
+              [
+                -64.66180804282786,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 77,
+        "Brick": null,
+        "Ceramic": 3,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 0,
+        "Kaolin_Clay": null,
+        "Metal": null,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 80,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66179905967502,
+                32.372139629981724
+              ],
+              [
+                -64.66179905967502,
+                32.37214721704786
+              ],
+              [
+                -64.66180804282786,
+                32.37214721704786
+              ],
+              [
+                -64.66180804282786,
+                32.372139629981724
+              ],
+              [
+                -64.66179905967502,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 52,
+        "Brick": 1,
+        "Ceramic": 5,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 16,
+        "Kaolin_Clay": null,
+        "Metal": 2,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 76,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66179905967502,
+                32.37213204291495
+              ],
+              [
+                -64.66179905967502,
+                32.372139629981724
+              ],
+              [
+                -64.66180804282786,
+                32.372139629981724
+              ],
+              [
+                -64.66180804282786,
+                32.37213204291495
+              ],
+              [
+                -64.66179905967502,
+                32.37213204291495
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 4,
+        "Brick": 1,
+        "Ceramic": 1,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 2,
+        "Kaolin_Clay": null,
+        "Metal": 4,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 12,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66179905967502,
+                32.372124455847555
+              ],
+              [
+                -64.66179905967502,
+                32.37213204291495
+              ],
+              [
+                -64.66180804282786,
+                32.37213204291495
+              ],
+              [
+                -64.66180804282786,
+                32.372124455847555
+              ],
+              [
+                -64.66179905967502,
+                32.372124455847555
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 80,
+        "Brick": 1,
+        "Ceramic": 1,
+        "Charcoal": 5,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": null,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": 2,
+        "Stone": 1,
+        "Grand_Total": 90,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66179007652218,
+                32.372139629981724
+              ],
+              [
+                -64.66179007652218,
+                32.37214721704786
+              ],
+              [
+                -64.66179905967502,
+                32.37214721704786
+              ],
+              [
+                -64.66179905967502,
+                32.372139629981724
+              ],
+              [
+                -64.66179007652218,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 295,
+        "Brick": null,
+        "Ceramic": 7,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": 3,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": 6,
+        "Grand_Total": 311,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66178109336934,
+                32.372139629981724
+              ],
+              [
+                -64.66178109336934,
+                32.37214721704786
+              ],
+              [
+                -64.66179007652218,
+                32.37214721704786
+              ],
+              [
+                -64.66179007652218,
+                32.372139629981724
+              ],
+              [
+                -64.66178109336934,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 22,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": 4,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": 13,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 39,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66177211021649,
+                32.37216239117822
+              ],
+              [
+                -64.66177211021649,
+                32.37216997824244
+              ],
+              [
+                -64.66178109336934,
+                32.37216997824244
+              ],
+              [
+                -64.66178109336934,
+                32.37216239117822
+              ],
+              [
+                -64.66177211021649,
+                32.37216239117822
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 9,
+        "Brick": null,
+        "Ceramic": 5,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 3,
+        "Kaolin_Clay": null,
+        "Metal": 2,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 19,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66177211021649,
+                32.37215480411336
+              ],
+              [
+                -64.66177211021649,
+                32.37216239117822
+              ],
+              [
+                -64.66178109336934,
+                32.37216239117822
+              ],
+              [
+                -64.66178109336934,
+                32.37215480411336
+              ],
+              [
+                -64.66177211021649,
+                32.37215480411336
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": null,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 3,
+        "Kaolin_Clay": null,
+        "Metal": 17,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 20,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66177211021649,
+                32.37214721704786
+              ],
+              [
+                -64.66177211021649,
+                32.37215480411336
+              ],
+              [
+                -64.66178109336934,
+                32.37215480411336
+              ],
+              [
+                -64.66178109336934,
+                32.37214721704786
+              ],
+              [
+                -64.66177211021649,
+                32.37214721704786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 5,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 14,
+        "Kaolin_Clay": null,
+        "Metal": 4,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 23,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66176312706365,
+                32.37216239117822
+              ],
+              [
+                -64.66176312706365,
+                32.37216997824244
+              ],
+              [
+                -64.66177211021649,
+                32.37216997824244
+              ],
+              [
+                -64.66177211021649,
+                32.37216239117822
+              ],
+              [
+                -64.66176312706365,
+                32.37216239117822
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 25,
+        "Brick": null,
+        "Ceramic": 1,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 4,
+        "Kaolin_Clay": null,
+        "Metal": 5,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 35,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66176312706365,
+                32.37214721704786
+              ],
+              [
+                -64.66176312706365,
+                32.37215480411336
+              ],
+              [
+                -64.66177211021649,
+                32.37215480411336
+              ],
+              [
+                -64.66177211021649,
+                32.37214721704786
+              ],
+              [
+                -64.66176312706365,
+                32.37214721704786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 4,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": 1,
+        "Kaolin_Clay": null,
+        "Metal": null,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 5,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66176312706365,
+                32.372139629981724
+              ],
+              [
+                -64.66176312706365,
+                32.37214721704786
+              ],
+              [
+                -64.66177211021649,
+                32.37214721704786
+              ],
+              [
+                -64.66177211021649,
+                32.372139629981724
+              ],
+              [
+                -64.66176312706365,
+                32.372139629981724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 155,
+        "Brick": 3,
+        "Ceramic": 1,
+        "Charcoal": 18,
+        "Coal": 19,
+        "Fiber": null,
+        "Glass": 1,
+        "Kaolin_Clay": 1,
+        "Metal": 5,
+        "Mortar": 1,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 204,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66176312706365,
+                32.37213204291495
+              ],
+              [
+                -64.66176312706365,
+                32.372139629981724
+              ],
+              [
+                -64.66177211021649,
+                32.372139629981724
+              ],
+              [
+                -64.66177211021649,
+                32.37213204291495
+              ],
+              [
+                -64.66176312706365,
+                32.37213204291495
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 43,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": 8,
+        "Coal": 8,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": null,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 59,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66176312706365,
+                32.372124455847555
+              ],
+              [
+                -64.66176312706365,
+                32.37213204291495
+              ],
+              [
+                -64.66177211021649,
+                32.37213204291495
+              ],
+              [
+                -64.66177211021649,
+                32.372124455847555
+              ],
+              [
+                -64.66176312706365,
+                32.372124455847555
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": 15,
+        "Brick": null,
+        "Ceramic": 1,
+        "Charcoal": 1,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": 2,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 19,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66175414391081,
+                32.37211686877949
+              ],
+              [
+                -64.66175414391081,
+                32.372124455847555
+              ],
+              [
+                -64.66176312706365,
+                32.372124455847555
+              ],
+              [
+                -64.66176312706365,
+                32.37211686877949
+              ],
+              [
+                -64.66175414391081,
+                32.37211686877949
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bone": null,
+        "Brick": null,
+        "Ceramic": null,
+        "Charcoal": null,
+        "Coal": null,
+        "Fiber": null,
+        "Glass": null,
+        "Kaolin_Clay": null,
+        "Metal": null,
+        "Mortar": null,
+        "Scale": null,
+        "Shell": null,
+        "Stone": null,
+        "Grand_Total": 0,
+        "grid": null,
+        "Barnacle": null,
+        "Composite": null,
+        "Coral": null,
+        "Kaolin_Pipe": null,
+        "Limestone": null,
+        "Scales": null,
+        "MXT": "6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -64.66174516075797,
+                32.37213204291495
+              ],
+              [
+                -64.66174516075797,
+                32.372139629981724
+              ],
+              [
+                -64.66175414391081,
+                32.372139629981724
+              ],
+              [
+                -64.66175414391081,
+                32.37213204291495
+              ],
+              [
+                -64.66174516075797,
+                32.37213204291495
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.66169882565737,
+              32.372183397363365
+            ],
+            [
+              -64.6617179363966,
+              32.37215423082994
+            ],
+            [
+              -64.66169379651546,
+              32.37212279892416
+            ],
+            [
+              -64.66166328638792,
+              32.37213214354592
+            ],
+            [
+              -64.66165758669376,
+              32.372155646681286
+            ],
+            [
+              -64.66166563332081,
+              32.37218283102301
+            ],
+            [
+              -64.66169882565737,
+              32.372183397363365
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }
